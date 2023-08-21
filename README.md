@@ -1,3 +1,5 @@
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-jana&show_icons=true&theme=algolia&line_height=40&hide=css"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jana&layout=compact&line_height=40&hide=css"/></a>
+
 ### নমস্কার 🙏 Nomoskar 🙏 
 ### नमस्ते 🙏 Namaste 🙏
 ### வணக்கம் 🙏
@@ -5,11 +7,6 @@
 ### ನಮಸ್ಕಾರ 🙏
 ### ഹലോ 🙏
 ### Hi there 👋
-
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-jana&show_icons=true&theme=algolia&line_height=40&hide=css"/> </a>
-
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jana&layout=compact&line_height=40&hide=css"/> </a>
-
    
 <!--
 **d-jana/d-jana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
