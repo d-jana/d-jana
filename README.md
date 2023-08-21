@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jana&layout=compact&theme=algolia&line_height=40&hide=css"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-jana&show_icons=true&theme=algolia&line_height=24&hide=stars"/></a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jana&layout=compact&theme=algolia&line_height=40"/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-jana&show_icons=true&theme=algolia&line_height=24&hide=stars"/></a>
 
 <!--
 **d-jana/d-jana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
